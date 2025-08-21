@@ -1,7 +1,8 @@
 {
-  "name": "aether-ui",
+  "name": "@gadia/aether-ui",
   "version": "0.0.1",
-  "author": "Gadia - (c) Valbion",
+  "author": "Gadia (Valbion)",
+  "license": "Apache-2.0",
   "private": false,
   "peerDependencies": {
     "@angular/common": "^20.1.0",
